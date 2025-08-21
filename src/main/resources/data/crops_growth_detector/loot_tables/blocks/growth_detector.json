@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "crops_growth_detector:growth_detector"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "crops_growth_detector:blocks/growth_detector"
+}
